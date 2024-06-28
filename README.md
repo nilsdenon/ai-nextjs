@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Testing development of a simple webapp with ai assistance inside vscode.
+Currently using the continue vscode extension and locally installed LLM models such as llama3 and codeqwen.
 
 ## Getting Started
 
